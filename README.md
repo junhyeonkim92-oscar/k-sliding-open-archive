@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/kbsf-logo.png" alt="대한봅슬레이스켈레톤경기연맹 KBSF" height="56"/>
+
 <img src="assets/hero.svg" alt="K-Sliding Open Archive" width="100%"/>
 
 <br/><br/>
@@ -29,7 +31,7 @@
 
 ## 소개
 
-대한봅슬레이·스켈레톤연맹의 통합 육성 플랫폼에서 외부 공유가 가능한 자료를 모아 공개하는 저장소입니다.
+대한봅슬레이스켈레톤경기연맹(KBSF)의 통합 육성 플랫폼에서 외부 공유가 가능한 자료를 모아 공개하는 저장소입니다.
 선수 선발·훈련에 쓰는 매뉴얼과 가이드를, 다른 연맹·지도자가 참고할 수 있도록 정리했습니다.
 
 ## 공개 범위
@@ -114,8 +116,10 @@ flowchart LR
 
 ## 문의
 
-- 대한봅슬레이·스켈레톤연맹
-- junhyeonkim92@gmail.com
+자료 활용·협업 문의는 아래로 연락 주세요.
+
+- 자료 담당 · junhyeonkim92@gmail.com
+- 연맹 대표 · bob@sports.or.kr
 
 <br/>
 
@@ -123,6 +127,13 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2dd4bf,100:f59e0b&height=110&section=footer" width="100%"/>
 
-<sub>© 대한봅슬레이·스켈레톤연맹 · CC BY-NC 4.0 (저작자표시–비영리)</sub>
+**(사)대한봅슬레이스켈레톤경기연맹**　·　KOREA BOBSLEIGH SKELETON FEDERATION
+
+<sub>
+회장 전찬민　·　사업자등록번호 101-82-30725<br/>
+서울특별시 송파구 올림픽로 424 우리금융아트홀 4층 401호<br/>
+Tel 02-420-1120　·　Fax 02-420-1246　·　http://www.kbsf.co.kr　·　bob@sports.or.kr<br/>
+© 2013 (사)대한봅슬레이스켈레톤경기연맹. All rights reserved.　·　공개 자료 CC BY-NC 4.0 (저작자표시–비영리)
+</sub>
 
 </div>

@@ -35,7 +35,7 @@
       <animate attributeName="opacity" from="0" to="1" begin="0.3s" dur="1.1s" fill="freeze"/>
     </text>
     <text x="600" y="228" font-size="13.5" fill="#7e8da0" letter-spacing="4" font-family="Consolas, 'Courier New', monospace">
-      KOREA BOBSLED &amp; SKELETON FEDERATION
+      KOREA BOBSLEIGH SKELETON FEDERATION
     </text>
   </g>
 
