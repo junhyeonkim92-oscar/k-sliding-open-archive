@@ -102,7 +102,11 @@ flowchart LR
 
 ## 통합 플랫폼
 
-실제 선수 데이터를 다루는 운영 환경은 비공개입니다. 아래 데모는 개인정보를 제외한 공개 화면입니다.
+실제 선수 데이터를 다루는 운영 환경은 비공개입니다. 아래 화면은 개인정보를 제외한 공개 데모입니다.
+
+<div align="center">
+<img src="assets/screen-intro.png" alt="통합 육성 플랫폼 개요 — 발굴부터 대표팀까지" width="90%"/>
+</div>
 
 **검증된 기능**
 - 경기 기록·구간기록 분석
@@ -111,6 +115,12 @@ flowchart LR
 **개발 중 (로드맵)**
 - 스마트워치 기반 컨디션·훈련부하 모니터링
 - 스포츠과학 문헌 기반 코칭 가이드
+
+<div align="center">
+<img src="assets/screen-platform.png" alt="선수 통합관리 로스터 대시보드" width="90%"/>
+<br/>
+<sub>선수 통합관리 대시보드 · 화면의 선수 정보는 모두 데모용 가상 데이터입니다</sub>
+</div>
 
 데모 · <https://demo-static-production.up.railway.app/>
 
